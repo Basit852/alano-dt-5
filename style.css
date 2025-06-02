@@ -260,8 +260,8 @@ body.light {
 }
 .container .wrapper .product-box .all-images .main-image img{
     margin-top: 3rem;
-    border-radius: 1.2rem;
-    height: 19rem ;
+    border-radius: 2rem;
+    height: 22rem ;
     width: 16rem;
 }
 .container .wrapper .product-box .small-images{
