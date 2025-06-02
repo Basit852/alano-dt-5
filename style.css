@@ -259,10 +259,10 @@ body.light {
     gap: 6rem;
 }
 .container .wrapper .product-box .all-images .main-image img{
-    margin-top: 5rem;
-    border-radius: 2rem;
-    height: 22rem ;
-    width: 12rem;
+    margin-top: 7rem;
+    border-radius: 6rem;
+    height: 12rem ;
+    width: 20rem;
 }
 .container .wrapper .product-box .small-images{
     display: flex;
